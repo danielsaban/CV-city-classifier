@@ -20,7 +20,7 @@ Moreover, we noticed that in the lower part of every picture the dashboard of th
 
 ## Algorithm
 
-As a first step, we started out with a classification model based on 3 cities: Paris, Goa and Sao Paulo. We observed the quality of a baseline model such as Random Forest and the improvement obtained through the implementation of a deep learning model. Predicting on the pictures test set, the accuracy witnessed a raise from 80% to 95% thanks to Google's LeNet transfer learning.
+As a first step, we started out with a classification model based on 3 cities: Paris, Goa and Sao Paulo. We observed the quality of a baseline model such as Random Forest and the improvement obtained through the implementation of a deep learning model. Predicting on the pictures test set, the accuracy witnessed a raise from 80% to 95% thanks to LeNet transfer learning.
 
 Thrilled by the results, we enriched the program with various additional steps: not only enlarging the dataset to 19 cities, but also performing an Anomaly Detection through Autoencoders, resulting in an overall accuracy rate of 91% on the 19 cities application, predicting on the test set.
 
