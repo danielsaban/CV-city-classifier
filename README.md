@@ -6,7 +6,7 @@ This Computer Vision program receives a street-level picture and is able to pred
 
 ## The Data
 
-We used a not public database called [Mapillary](https://www.mapillary.com/), for which we have been granted a special academic permission.
+We used a not public database called [Mapillary](https://www.mapillary.com/ "Mapillary Database"), for which we have been granted a special academic permission.
 
 
 The database had initially a total of 1.5 million pictures and it was imbalanced over the 19 different cities.
@@ -31,7 +31,7 @@ Lastly, we felt the need to deliver some interactive and enjoyable product to th
 
 ## Usage
 
-If you want to try out the web application, uploading a street-level picture randomly captured with Google Street View, while having a look at the GAN generated images in the meantime, just click on the [link](https://cities19test.herokuapp.com/) and have fun!
+If you want to try out the web application, uploading a street-level picture randomly captured with Google Street View, while having a look at the GAN generated images in the meantime, just click on the [link](https://cities19test.herokuapp.com/ "Amazing CV City Classifier Web Application") and have fun!
 
 ## Created by:
 - `Daniel Saban`
