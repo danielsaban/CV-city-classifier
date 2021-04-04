@@ -2,12 +2,11 @@
 
 ## Overview
 
-This Computer Vision program receives a street-level picture and is able to predict the city it has been shot in.
+This Computer Vision algorithm receives a street-level picture and is able to predict the city it has been shot in.
 
 ## The Data
 
 We used a not public database called [Mapillary](https://www.mapillary.com/ "Mapillary Database"), for which we have been granted a special academic permission.
-
 
 The database had initially a total of 1.5 million pictures and it was imbalanced over the 19 different cities.
 
