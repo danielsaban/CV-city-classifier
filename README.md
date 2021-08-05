@@ -4,7 +4,7 @@
 
 This Computer Vision algorithm receives a street-level picture and is able to predict the city it has been shot in.
 
-## The Data
+## Data
 
 We used a not public database called [Mapillary](https://www.mapillary.com/ "Mapillary Database"), for which we have been granted a special academic permission.
 
